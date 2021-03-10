@@ -1,0 +1,33 @@
+html{
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2rem;
+    text-align: center;
+    padding: 0 3rem;
+}
+
+#map{
+
+    margin-left: 350px;
+    height: 80vh;
+    width: 50vw;
+}
+
+
+.gm-style-iw-d {
+    color: #000000;
+  }
+  
+  
